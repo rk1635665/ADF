@@ -1,0 +1,9 @@
+{
+	"name": "adfSun1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80e24bcd-a78c-46c3-af9d-0725649eeacd",
+		"tenantId": "e24ac094-efd8-4a6b-98d5-a129b32a8c9a"
+	}
+}
