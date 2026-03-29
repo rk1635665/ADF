@@ -1,0 +1,9 @@
+{
+	"name": "adfSystemDesign",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc57403b-a74a-497c-9372-e46545fdc59a",
+		"tenantId": "e24ac094-efd8-4a6b-98d5-a129b32a8c9a"
+	}
+}
